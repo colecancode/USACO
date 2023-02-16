@@ -1,0 +1,20 @@
+/*
+ID: coledou1
+TASK: TASK_NAME
+LANG: C++
+*/
+
+// COLE MILLER
+// 00 / 00 / 00
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	freopen("TASK_NAME.in", "r", stdin);
+	freopen("TASK_NAME.out", "w", stdout);
+
+
+
+	return 0;
+}

@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Contests">
+      <UniqueIdentifier>{dfbd2a18-4949-4201-977b-28aa5ecb1d2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Training Page">
+      <UniqueIdentifier>{d25d610b-2ced-4b44-aaf8-3981ba8de666}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="B1_dec22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="B2_dec22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="B3_dec20.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="B3_dec22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G1_dec22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S1_dec22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_dec22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S3_dec22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="B1_open22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="B2_open22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="B3_open22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_feb20.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_dec16.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_jan18.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_jan16.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S1_jan22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S1_dec21.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S1_jan20.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="B3_feb20.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_open16.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G2_dec15.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G2_jan17.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G1_dec15.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G2_feb19.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S3_jan20.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G3_dec16.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_dec19.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_dec20.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_feb22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_jan22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S1_feb15.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S1_jan16.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S1_feb22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="ariprog.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="barn1.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="beads.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="castle.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="combo.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="crypt1.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="dualpal.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="frac1.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="friday.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="gift1.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="hamming.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="holstein.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="lamps.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="milk.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="milk2.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="milk3.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="namenum.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="nocows.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="numtri.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="palsquare.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="pprime.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="preface.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="prefix.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="ride.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="runround.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="skidesign.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="sort3.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="sprime.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="subset.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="transform.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="wormhole.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="zerosum.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="money.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="concom.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="ttwo.cpp">
+      <Filter>Source Files\Training Page</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_feb15.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S3_jan21.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_open21.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S1_nov12.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G1_open21.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_dec18.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S1_feb19.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="compTemplate.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="template.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="FenwickTemplate.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
