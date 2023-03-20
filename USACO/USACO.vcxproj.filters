@@ -33,9 +33,6 @@
     <ClCompile Include="B3_dec22.cpp">
       <Filter>Source Files\Contests</Filter>
     </ClCompile>
-    <ClCompile Include="G1_dec22.cpp">
-      <Filter>Source Files\Contests</Filter>
-    </ClCompile>
     <ClCompile Include="S1_dec22.cpp">
       <Filter>Source Files\Contests</Filter>
     </ClCompile>
@@ -244,6 +241,36 @@
       <Filter>Source Files\Contests</Filter>
     </ClCompile>
     <ClCompile Include="S1_feb19.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S1_dec18.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G1_jan22.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_open20.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S3_jan16.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G3_dec19.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G1_jan20.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G3_dec18.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_feb19.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G3_feb19.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="S2_feb18.cpp">
       <Filter>Source Files\Contests</Filter>
     </ClCompile>
   </ItemGroup>

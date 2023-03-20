@@ -6,19 +6,16 @@ int N, K;
 int A[100000];
 int mod;
 
-bool cmp(int a, int b)
-{
+bool cmp(int a, int b) {
 	return (a % mod) > (b % mod);
 }
 
-int main()
-{
+int main() {
 	freopen("berries.in", "r", stdin);
 	freopen("berries.out", "w", stdout);
 	cin >> N >> K;
 	int M = 0;
-	for (int i = 0; i < N; i++)
-	{
+	for (int i = 0; i < N; i++) {
 		cin >> A[i];
 		M = max(M, A[i]);
 	}
@@ -30,8 +27,7 @@ int main()
 			full += A[i] / b;
 		if (full < K / 2)
 			break;
-		if (full >= K)
-		{
+		if (full >= K) {
 			best = max(best, b * (K / 2));
 			continue;
 		}
