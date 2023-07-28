@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+#define FOR(s, e, i) for(int i=s; i<e; ++i)
 typedef long long ll;
 typedef pair<int, int> ii;
 typedef vector<int> vi;

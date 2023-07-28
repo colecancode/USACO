@@ -276,6 +276,9 @@
     <ClCompile Include="G2_jan21.cpp">
       <Filter>Source Files\Contests</Filter>
     </ClCompile>
+    <ClCompile Include="G2_feb17.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="compTemplate.txt">
