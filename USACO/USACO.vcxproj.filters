@@ -279,6 +279,18 @@
     <ClCompile Include="G2_feb17.cpp">
       <Filter>Source Files\Contests</Filter>
     </ClCompile>
+    <ClCompile Include="G3_jan23.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G3_feb18.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G2_jan19.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
+    <ClCompile Include="G1_open16.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="compTemplate.txt">
