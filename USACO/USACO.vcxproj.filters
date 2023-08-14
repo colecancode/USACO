@@ -291,6 +291,9 @@
     <ClCompile Include="G1_open16.cpp">
       <Filter>Source Files\Contests</Filter>
     </ClCompile>
+    <ClCompile Include="G3_feb17.cpp">
+      <Filter>Source Files\Contests</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="compTemplate.txt">
